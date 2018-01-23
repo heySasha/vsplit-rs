@@ -1,0 +1,10 @@
+[package]
+name = "vsplit"
+version = "0.1.0"
+authors = ["heySasha <iatsenko.o@donnu.edu.ua>"]
+repository = "https://github.com/heySasha/vsplit-rs"
+homepage = "https://github.com/heySasha/vsplit-rs"
+license = "MIT"
+description = "..."
+
+[dependencies]
